@@ -11,7 +11,5 @@
 	<classpathentry kind="con" path="WEBAPP_CONTAINER"/>
 	<classpathentry kind="con" path="ULC_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="lib" path="C:/Axon_Ivy_Designer_6_5/configuration/aws-java-sdk-1.11.99.jar"/>
-	<classpathentry kind="lib" path="C:/Users/shu/werkraumLiberty/Expertenplattform/lib/joda-time-2.9.7.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
