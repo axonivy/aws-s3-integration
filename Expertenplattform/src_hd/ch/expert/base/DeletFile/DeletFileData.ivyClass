@@ -1,0 +1,6 @@
+DeletFileData #class
+ch.expert.base.DeletFile #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier
+key String #field
+key PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+ShowResultsData #class
+ch.expert.base.ShowResults #namespace
+awsresult String #field
+awsresult PERSISTENT #fieldModifier

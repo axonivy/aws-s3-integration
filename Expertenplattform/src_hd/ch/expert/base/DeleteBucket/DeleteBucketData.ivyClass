@@ -1,0 +1,4 @@
+DeleteBucketData #class
+ch.expert.base.DeleteBucket #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier

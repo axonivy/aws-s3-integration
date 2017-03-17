@@ -1,0 +1,4 @@
+Dossier #class
+ch.expert.base #namespace
+einFile File #field
+einFile PERSISTENT #fieldModifier

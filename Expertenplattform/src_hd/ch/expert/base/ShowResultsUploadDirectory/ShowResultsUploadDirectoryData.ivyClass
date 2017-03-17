@@ -1,0 +1,6 @@
+ShowResultsUploadDirectoryData #class
+ch.expert.base.ShowResultsUploadDirectory #namespace
+awsresult String #field
+awsresult PERSISTENT #fieldModifier
+anzFiles Long #field
+anzFiles PERSISTENT #fieldModifier

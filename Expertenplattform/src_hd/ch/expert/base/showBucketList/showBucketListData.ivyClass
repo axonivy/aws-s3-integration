@@ -1,0 +1,4 @@
+showBucketListData #class
+ch.expert.base.showBucketList #namespace
+bucketList List<String> #field
+bucketList PERSISTENT #fieldModifier

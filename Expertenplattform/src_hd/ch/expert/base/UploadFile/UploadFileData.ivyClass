@@ -1,0 +1,10 @@
+UploadFileData #class
+ch.expert.base.UploadFile #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier
+file java.io.File #field
+file PERSISTENT #fieldModifier
+key String #field
+key PERSISTENT #fieldModifier
+uploadedFile org.primefaces.model.UploadedFile #field
+uploadedFile PERSISTENT #fieldModifier

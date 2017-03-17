@@ -1,0 +1,24 @@
+S3Bucket #class
+ch.expert.base #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier
+awsresult String #field
+awsresult PERSISTENT #fieldModifier
+bucketList List<String> #field
+bucketList PERSISTENT #fieldModifier
+operation String #field
+operation PERSISTENT #fieldModifier
+file java.io.File #field
+file PERSISTENT #fieldModifier
+key String #field
+key PERSISTENT #fieldModifier
+uploadedFile org.primefaces.model.UploadedFile #field
+uploadedFile PERSISTENT #fieldModifier
+listFiles List<String> #field
+listFiles PERSISTENT #fieldModifier
+objektLink org.apache.http.client.methods.HttpRequestBase #field
+objektLink PERSISTENT #fieldModifier
+rootPath java.nio.file.Path #field
+rootPath PERSISTENT #fieldModifier
+anzFiles Long #field
+anzFiles PERSISTENT #fieldModifier

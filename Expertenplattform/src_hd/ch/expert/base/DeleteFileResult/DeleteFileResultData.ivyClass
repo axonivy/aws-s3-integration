@@ -1,0 +1,4 @@
+DeleteFileResultData #class
+ch.expert.base.DeleteFileResult #namespace
+awsresult String #field
+awsresult PERSISTENT #fieldModifier

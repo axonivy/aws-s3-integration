@@ -1,0 +1,6 @@
+EditBucketNameData #class
+ch.expert.base.EditBucketName #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier
+awsresult String #field
+awsresult PERSISTENT #fieldModifier

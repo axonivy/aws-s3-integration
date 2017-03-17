@@ -1,0 +1,4 @@
+ShowFileContentData #class
+ch.expert.base.ShowFileContent #namespace
+objektLink org.apache.http.client.methods.HttpRequestBase #field
+objektLink PERSISTENT #fieldModifier

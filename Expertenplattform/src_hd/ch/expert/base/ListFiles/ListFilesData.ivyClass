@@ -1,0 +1,4 @@
+ListFilesData #class
+ch.expert.base.ListFiles #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+ShowResultSetACLData #class
+ch.expert.base.ShowResultSetACL #namespace
+awsresult String #field
+awsresult PERSISTENT #fieldModifier

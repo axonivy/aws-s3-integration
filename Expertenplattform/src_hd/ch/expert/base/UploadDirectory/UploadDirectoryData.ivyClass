@@ -1,0 +1,10 @@
+UploadDirectoryData #class
+ch.expert.base.UploadDirectory #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier
+operation String #field
+operation PERSISTENT #fieldModifier
+key String #field
+key PERSISTENT #fieldModifier
+rootPath java.nio.file.Path #field
+rootPath PERSISTENT #fieldModifier

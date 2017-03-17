@@ -1,0 +1,22 @@
+S3_bucket #class
+ch.ivy.awss3 #namespace
+nameBucket String #field
+nameBucket PERSISTENT #fieldModifier
+resultAWS String #field
+resultAWS PERSISTENT #fieldModifier
+s3_operation String #field
+s3_operation PERSISTENT #fieldModifier
+bucketList List<String> #field
+bucketList PERSISTENT #fieldModifier
+file java.io.File #field
+file PERSISTENT #fieldModifier
+key String #field
+key PERSISTENT #fieldModifier
+fileList List<String> #field
+fileList PERSISTENT #fieldModifier
+objectLink org.apache.http.client.methods.HttpRequestBase #field
+objectLink PERSISTENT #fieldModifier
+rootPath java.nio.file.Path #field
+rootPath PERSISTENT #fieldModifier
+anzFiles Long #field
+anzFiles PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+ListFilesResultData #class
+ch.expert.base.ListFilesResult #namespace
+listFiles List<String> #field
+listFiles PERSISTENT #fieldModifier

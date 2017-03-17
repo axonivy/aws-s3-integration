@@ -1,0 +1,4 @@
+SelectionOperationData #class
+ch.expert.base.SelectionOperation #namespace
+operation String #field
+operation PERSISTENT #fieldModifier

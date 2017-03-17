@@ -1,0 +1,6 @@
+SetACLPublicDownloadData #class
+ch.expert.base.SetACLPublicDownload #namespace
+bucketname String #field
+bucketname PERSISTENT #fieldModifier
+key String #field
+key PERSISTENT #fieldModifier
